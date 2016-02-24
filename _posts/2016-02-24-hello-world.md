@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello, world. I'm Zach"
-date: 2014-04-30
+date: 2016-02-24
 ---
 
 Yes! This site is coming together, and I couldn't be more excited. ztblick is powered by [Jekyll](http://jekyllrb.com)
