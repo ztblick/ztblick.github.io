@@ -1,5 +1,5 @@
 ---
-layout: feed
+layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://ztblick.github.io/blog</id>
 	<author>
-		<name>ztblick</name>
+		<name>ZTBlick</name>
 		<email>zachary.blickensderfer@yale.edu</email>
 	</author>
 
