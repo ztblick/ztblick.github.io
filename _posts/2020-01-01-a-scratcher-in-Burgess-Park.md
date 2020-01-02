@@ -27,7 +27,8 @@ We can only afford the chance?"
 My father lost a house;  
 who else would play  
 when the house always wins?
-  
-I peeled the sticker off the door.  
-It came apart as I tore it away  
-and cast it in the trash.
+
+I went back to my classroom  
+and peeled the sticker off the door.  
+It came apart as I tore it away,  
+"on people" facing up in my hands.
