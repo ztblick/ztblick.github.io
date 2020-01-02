@@ -24,8 +24,7 @@ Does it rest in the head, sending messages
 saying, "We cannot afford not to try  
 We can only afford the chance?"
 
-My father lost a house;  
-who else would play  
+My father lost a house: who else would play  
 when the house always wins?
 
 I went back to my classroom  
