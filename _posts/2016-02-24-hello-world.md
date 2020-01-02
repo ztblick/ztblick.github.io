@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, world! I'm Zach."
+title: "Hello, World!"
 date: 2016-02-24
 ---
 
