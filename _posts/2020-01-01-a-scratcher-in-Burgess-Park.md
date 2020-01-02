@@ -27,9 +27,7 @@ We can only afford the chance?"
 My father lost a house;  
 who else would play  
 when the house always wins?
-
-When I moved into my classroom in August,  
-I peeled the sticker off the door  
-It came apart as I tore it away.  
-I cast it in the trash just as I cast away  
-the scratcher I found in Burgess Park.
+  
+I peeled the sticker off the door.  
+It came apart as I tore it away  
+and cast it in the trash.
