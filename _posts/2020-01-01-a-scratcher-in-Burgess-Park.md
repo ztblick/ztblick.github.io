@@ -7,7 +7,7 @@ date: 2020-01-01
 I found a scratcher in Burgess Park:  
 Black Lucky Horse — "Match three and win!"  
 Eight Days Before, Dad gave us three:  
-For me, a Christmas Tree with gifts  
+for me, a Christmas Tree with gifts  
 hidden beneath its leaves.
 
 Who buys a scratcher? I thought,  
