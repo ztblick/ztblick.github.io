@@ -14,7 +14,7 @@ Who buys a scratcher? I thought,
 turning the ticket over in my hands.  
 The folks who play the lotto, I've been told,  
 are dumb: "A tax on people who don't understand math,"  
-read a sticker on the door to my classroom,  
+read a sticker on the door of my classroom,  
 left behind by an old teacher, I presume.
 
 Where do you feel the urge to spend that dollar?  
