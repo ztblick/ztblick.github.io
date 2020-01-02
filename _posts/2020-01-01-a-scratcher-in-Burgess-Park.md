@@ -17,9 +17,16 @@ are dumb: "A tax on people who don't understand math,"
 read a sticker on the door to my classroom,  
 left behind by an old teacher, I presume.
 
-What's the precondition for spending just a dollar?  
-To feel that breaking out of debt cannot be done without the chance?  
-My father lost a house; who else would play when the house always wins?  
+Where do you feel the urge to spend that dollar?  
+Does it rest in the gut, a sour-turning twist,  
+Like a penny swallowed and forgotten?  
+Does it rest in the head, sending messages  
+saying, "We cannot afford not to try  
+We can only afford the chance?"
+
+My father lost a house;  
+who else would play  
+when the house always wins?
 
 When I moved into my classroom in August,  
 I peeled the sticker off the door  
