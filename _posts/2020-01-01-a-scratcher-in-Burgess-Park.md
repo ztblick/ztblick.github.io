@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a scratcher in Burgess Park"
+title: "A Scratcher in Burgess Park"
 date: 2020-01-01
 ---
 
@@ -20,7 +20,7 @@ left behind by an old teacher, I presume.
 What's the precondition  
 for spending just a dollar?  
 To feel that breaking out of debt
-cannot be done without the chance?
+cannot be done without the chance?  
 My father lost a house;  
 who else would play  
 when the house always wins?  
