@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The first five years of teaching"
+title: "The First Five Years of Teaching"
 date: 2020-01-26
 ---
 
