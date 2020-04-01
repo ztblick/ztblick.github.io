@@ -24,5 +24,5 @@ And, so, it comes down to motivation and empowerment. I wanted to cook, I wasn't
 
 "Anyone can cook," says Gusteau, which Ego reiterates: "A great chef can come from anywhere." If I am to believe that any of my students can become a great thinker&mdash;a person who lives for the sake of the community, who dedicates their heart to the great problems of the world&mdash;then I ought to provide them with what they need. I need to whet their appetite, to serve them up examples, to show them kitchen basics...then challenge them to make themselves breakfast.
 
-<img style="float: right;"  src="/img/breakfast quesadilla.png" width="300" hspace="20">
+<img style="float: right;"  src="/img/breakfast quesadilla.JPG" width="300" hspace="20">
 
